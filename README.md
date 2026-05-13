@@ -2,7 +2,7 @@
 
 #### Software Engineer passionate about development.
 
-![snake animation](https://github.com/jefflennon1/jefflennon1/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/jefflennon1/jefflennon1/blob/output/github-contribution-grid-snake2.svg?raw=true)
 
 I am a Senior Full Stack Developer with solid experience building and maintaining banking and health systems using Java (8/11), Spring Framework, React, TypeScript, and Oracle/DB2 databases. I work with the entire development cycle — from REST APIs and batch processing to code quality (SonarQube, Jenkins) and team onboarding. Passionate about clean code, Kafka-driven async communication, and delivering robust, scalable solutions.
 
