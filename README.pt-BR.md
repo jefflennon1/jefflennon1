@@ -23,6 +23,19 @@ public final class JeffersonLennon {
 }
 ```
 
+<!-- FEATURED_REPOS:START -->
+## Projetos de portfólio em destaque
+
+| Repositório | Foco técnico |
+| --- | --- |
+| [**Nori Sales**](https://github.com/jefflennon1/nori-sales) | Java 21 / Spring, Apache Kafka, autenticação, pedidos e integrações de pagamento |
+| [**Nori Stock**](https://github.com/jefflennon1/nori-stock) | Java / Spring, gestão de estoque e comunicação orientada a eventos |
+| [**API de Votação**](https://github.com/jefflennon1/api-votacao) | API REST Java / Spring, regras de negócio, persistência e testes |
+| [**Nori Web**](https://github.com/jefflennon1/nori-web) | Interface React / TypeScript integrada aos serviços Nori |
+
+São projetos públicos e pessoais que exemplificam práticas de engenharia; não representam código-fonte dos sistemas corporativos nos quais trabalhei.
+<!-- FEATURED_REPOS:END -->
+
 ## Experiência em destaque
 
 **Banco do Brasil · Sistemas financeiros e integrações (via Lyncas)**  
