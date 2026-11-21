@@ -24,16 +24,17 @@ public final class JeffersonLennon {
 ```
 
 <!-- FEATURED_REPOS:START -->
-## Projetos de portfólio em destaque
+## Projetos de engenharia em destaque
 
 | Repositório | Foco técnico |
 | --- | --- |
+| [**Memora**](https://github.com/jefflennon1/memora-application) | Showcase público de um produto real: API modular Java 21 / Spring Boot, frontend React / TypeScript, autenticação, eventos e testes |
 | [**Nori Sales**](https://github.com/jefflennon1/nori-sales) | Java 21 / Spring, Apache Kafka, autenticação, pedidos e integrações de pagamento |
 | [**Nori Stock**](https://github.com/jefflennon1/nori-stock) | Java / Spring, gestão de estoque e comunicação orientada a eventos |
 | [**API de Votação**](https://github.com/jefflennon1/api-votacao) | API REST Java / Spring, regras de negócio, persistência e testes |
 | [**Nori Web**](https://github.com/jefflennon1/nori-web) | Interface React / TypeScript integrada aos serviços Nori |
 
-São projetos públicos e pessoais que exemplificam práticas de engenharia; não representam código-fonte dos sistemas corporativos nos quais trabalhei.
+São projetos pessoais que exemplificam práticas de engenharia, não código-fonte de sistemas de clientes. O repositório da Memora é um **recorte público sanitizado**, sem as configurações de produção nem o histórico privado de desenvolvimento.
 <!-- FEATURED_REPOS:END -->
 
 ## Experiência em destaque
@@ -63,10 +64,15 @@ Também atuei em sistemas bancários do **Banco de Brasília (BRB)** por meio da
 | **Web e mobile** | React, Next.js, Angular, TypeScript, Flutter |
 | **Qualidade e operação** | JUnit, Mockito, SonarQube, Dynatrace, testes, refatoração, investigação de incidentes |
 
-## Projeto público
+## Projetos pessoais
 
-**Nori — Plataforma de vendas e estoque (projeto pessoal)**  
-Projeto de portfólio para explorar serviços independentes de vendas e estoque, comunicação assíncrona com Kafka e uma interface web. Os repositórios são exemplos públicos do meu trabalho, separados dos sistemas corporativos confidenciais mencionados acima.
+**Memora — Memórias coletivas organizadas por eventos (produto real e showcase público)**  
+A Memora é uma plataforma social para preservar memórias compartilhadas por meio de fotos, vídeos, áudios, comentários e reações dentro de eventos. O monorepo público, selecionado e sanitizado, demonstra um backend modular em Java 21 / Spring Boot 3 e um frontend React / TypeScript, com segurança de sessões, OAuth2, proteção CSRF, permissões de participantes, migrations PostgreSQL, armazenamento de mídia e testes automatizados. A infraestrutura de produção e o histórico privado de desenvolvimento foram intencionalmente excluídos.
+
+[Explorar código e arquitetura](https://github.com/jefflennon1/memora-application) · [Conhecer o produto no ar](https://memora-social.com.br/login)
+
+**Nori — Plataforma de vendas e estoque**  
+Projeto pessoal de portfólio com foco em backend, serviços independentes de vendas e estoque, comunicação assíncrona via Kafka e interface React.
 
 [API de Vendas · Java / Spring](https://github.com/jefflennon1/nori-sales) · [API de Estoque · Java / Spring](https://github.com/jefflennon1/nori-stock) · [Web · React / TypeScript](https://github.com/jefflennon1/nori-web)
 
