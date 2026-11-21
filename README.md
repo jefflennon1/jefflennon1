@@ -23,6 +23,19 @@ public final class JeffersonLennon {
 }
 ```
 
+<!-- FEATURED_REPOS:START -->
+## Featured open-source portfolio projects
+
+| Repository | Engineering focus |
+| --- | --- |
+| [**Nori Sales**](https://github.com/jefflennon1/nori-sales) | Java 21 / Spring, Apache Kafka, authentication, orders and payment integrations |
+| [**Nori Stock**](https://github.com/jefflennon1/nori-stock) | Java / Spring, inventory management and event-driven communication |
+| [**Voting API**](https://github.com/jefflennon1/api-votacao) | Java / Spring REST API, business rules, persistence and tests |
+| [**Nori Web**](https://github.com/jefflennon1/nori-web) | React / TypeScript interface for the Nori services |
+
+These are personal/public projects intended to illustrate engineering practices, not source code from my enterprise engagements.
+<!-- FEATURED_REPOS:END -->
+
 ## Selected experience
 
 **Banco do Brasil · Financial systems and integration (via Lyncas)**  
